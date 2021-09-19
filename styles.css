@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+#header {
+    font-family: 'Roboto', sans-serif;
+    background-color: #a4182d;
+    padding: 7px;
+    color: #fff;
+    padding-left:8px;
+}
+
+#body {
+    margin: 8px;
+    font-family: 'Times Regular', serif;
+}
+
+#body h3 {
+    font-family:'Roboto', sans-serif;
+}
+
+#body p {
+    font-family:'Times Regular';
+}
+
+#body ul {
+    list-style-image: url('outline_description_black_24dp.png');
+}
+
+hr {
+    border: 5px solid #eee;
+}
+
+#uwu {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#eee;
+    text-align: center;
+}
